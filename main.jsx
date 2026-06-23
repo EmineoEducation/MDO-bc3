@@ -440,6 +440,11 @@ function Root() {
       }
       // Substituer le nom/email partout dans les données
       applyStudent(n, session.studentEmail);
+      // Si la session vient du portail (fromPortal) : brief ou desktop, jamais lockscreen
+      if (session.fromPortal) {
+        setPhase(session.timerStart ? 'desktop' : 'brief');
+        return;
+      }
       // Reprendre directement sur le bureau
       setPhase('desktop');
     });
@@ -500,6 +505,17 @@ function Root() {
     </>
   );
 }
+
+// Titre d'onglet piloté par la config — jamais codé en dur par bloc.
+(function setDocTitle() {
+  try {
+    const c = window.PAC_CONFIG || {};
+    const ent = c.entreprise || 'Lumio Health';
+    const bloc = (c.bloc || '').toUpperCase();
+    const disp = c.dispositif || 'PAC';
+    document.title = [disp, ent, bloc].filter(Boolean).join(' · ');
+  } catch (e) {}
+})();
 
 // Mount
 ReactDOM.createRoot(document.getElementById('root')).render(<Root />);
