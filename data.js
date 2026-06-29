@@ -122,7 +122,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Ce référentiel dresse la cartographie des compétences de l'équipe Marketing & B2B de Lumio Health au premier trimestre 2025, dans un contexte de forte montée en charge liée au partenariat Northgate. Il met en regard, pour chaque collaborateur clé, les compétences requises par le nouveau périmètre d'activité et les compétences effectivement maîtrisées, afin d'objectiver les écarts et de prioriser les actions de développement."
+              "text": "[À COMPLÉTER — paragraphe d'introduction]"
             },
             {
               "type": "h2",
@@ -130,7 +130,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Sonia Ferracci (Directrice Marketing) maîtrise le pilotage stratégique et le positionnement de marque, mais doit monter en compétence sur le management d'une équipe en croissance rapide et la délégation opérationnelle. Yassine Morel (Content Manager) dispose d'une forte expertise éditoriale et SEO ; l'écart porte sur la coordination de prestataires et la gestion de projet multi-canal, désormais nécessaires au volume Northgate. Camille Ott (Responsable partenariats B2B) excelle en développement commercial et négociation ; ses axes de progrès concernent l'analyse de données de performance et l'outillage CRM. Trois écarts prioritaires ressortent : (1) management et délégation au niveau de l'encadrement, (2) gestion de projet transverse au niveau opérationnel, (3) data et pilotage par les indicateurs sur l'ensemble de l'équipe. Chaque écart appelle une action de formation ciblée (interne ou OPCO/CPF) à inscrire au plan de développement des compétences."
+              "text": "[À COMPLÉTER — corps du document]"
             },
             {
               "type": "callout",
@@ -155,7 +155,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Cet audit examine la politique RH de Lumio Health au regard de quatre variables structurantes — emploi, rémunération, valorisation et implication — dans la perspective du changement d'échelle engagé avec Northgate. Il vise à identifier les forces, les fragilités et les risques juridiques, puis à formuler des préconisations opérationnelles et un plan de développement des compétences budgété."
+              "text": "[À COMPLÉTER — paragraphe d'introduction]"
             },
             {
               "type": "h2",
@@ -163,7 +163,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Emploi : la croissance rapide a créé des surcharges (Camille Ott à 50h/semaine) et une absence prolongée non formalisée (Yassine Morel), sans cartographie des emplois ni anticipation des besoins — d'où la nécessité d'une démarche GPEC. Rémunération : l'absence de grille et de critères objectifs expose à un risque d'inégalité de traitement et de tensions ; une politique de rémunération lisible et un cadrage des révisions salariales sont recommandés. Valorisation : les parcours et la reconnaissance des contributions ne sont pas structurés ; la mise en place d'entretiens professionnels réguliers et d'un plan de développement des compétences est prioritaire. Implication : le climat se dégrade (tensions latentes, signaux de désengagement) ; la prévention des risques psychosociaux impose la mise à jour du DUERP, l'évaluation des RPS et le respect des obligations du droit du travail. Préconisations : formaliser une GPEC, sécuriser juridiquement la politique RH (DUERP, RPS), et budgéter un plan de développement des compétences mobilisant OPCO et CPF, avec indicateurs de suivi et jalons trimestriels."
+              "text": "[À COMPLÉTER — corps du document]"
             },
             {
               "type": "callout",
@@ -331,13 +331,17 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "URGENT — Brief mission",
             "app": "mail",
-            "props": { "openId": "DOC-01" }
+            "props": {
+              "docId": "DOC-01"
+            }
           },
           {
             "kind": "note",
             "name": "Diagnostic flash — État",
             "app": "notes",
-            "props": { "openNote": "DOC-02" }
+            "props": {
+              "docId": "DOC-02"
+            }
           }
         ]
       },
@@ -350,13 +354,17 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "CR — Réunion de",
             "app": "pdf",
-            "props": { "openDoc": "DOC-03" }
+            "props": {
+              "docId": "DOC-03"
+            }
           },
           {
             "kind": "pdf",
             "name": "Référentiel de compétences &",
             "app": "pdf",
-            "props": { "openDoc": "DOC-04" }
+            "props": {
+              "docId": "DOC-04"
+            }
           }
         ]
       },
@@ -369,13 +377,17 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "RE: Lumio Band Pro",
             "app": "mail",
-            "props": { "openId": "DOC-05" }
+            "props": {
+              "docId": "DOC-05"
+            }
           },
           {
             "kind": "pdf",
             "name": "Audit Politique RH Lumio",
             "app": "pdf",
-            "props": { "openDoc": "DOC-06" }
+            "props": {
+              "docId": "DOC-06"
+            }
           }
         ]
       },
@@ -388,7 +400,9 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "Plan de formation 2025",
             "app": "pdf",
-            "props": { "openDoc": "DOC-07" }
+            "props": {
+              "docId": "DOC-07"
+            }
           }
         ]
       },
@@ -401,7 +415,9 @@ window.LUMIO_DATA = {
             "kind": "deck",
             "name": "Restitution CODIR — Plan",
             "app": "pdf",
-            "props": { "openDoc": "DOC-08" }
+            "props": {
+              "docId": "DOC-08"
+            }
           }
         ]
       },
@@ -411,46 +427,46 @@ window.LUMIO_DATA = {
         "icon": "🪪",
         "items": [
           {
-                    "kind": "html",
-                    "name": "Théo Marczak — CEO",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "theo"
-                    }
+            "kind": "html",
+            "name": "Théo Marczak — CEO",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_theo_marczak.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Sonia Ferracci — Dir. Marketing",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "sonia"
-                    }
+            "kind": "html",
+            "name": "Sonia Ferracci — Dir. Marketing",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_sonia_ferracci.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Camille Ott — Partenariats B2B",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "camille"
-                    }
+            "kind": "html",
+            "name": "Camille Ott — Partenariats B2B",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_camille_ott.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Yassine Morel — Content Manager",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "yassine"
-                    }
+            "kind": "html",
+            "name": "Yassine Morel — Content Manager",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_yassine_morel.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Jakob Rein — Northgate Capital",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "jakob"
-                    }
+            "kind": "html",
+            "name": "Jakob Rein — Northgate Capital",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_jakob_rein.html"
+            }
           }
-          ]
+        ]
       }
     },
     "order": [
@@ -572,7 +588,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Quand la croissance forcée épuise les équipes des medtech françaises",
       "lede": "Portées par des investisseurs exigeants et des cycles de lancement accélérés, plusieurs startups de santé numérique voient leurs équipes internes se fissurer. Un phénomène qui interroge les pratiques managériales du secteur.",
-      "illustration": "portraits/Theo_Marczak.png",
+      "illustration": "PHOTO ILLUSTRATIVE",
       "body": "Depuis dix-huit mois, le marché français des medtech affiche une attractivité record auprès des fonds de capital-risque européens. Les levées de fonds se succèdent, les roadmaps produit s'accélèrent, et les équipes — souvent réduites — se retrouvent à absorber des charges de travail croissantes sans que les effectifs suivent. Résultat : un turnover qui grimpe en flèche et des signaux d'épuisement professionnel de plus en plus difficiles à ignorer.\n\nSelon une étude publiée en février 2025 par le cabinet Alvares & Marsal, 62 % des startups healthtech françaises de moins de 50 salariés ont connu au moins un départ non anticipé dans leur équipe marketing ou produit au cours des douze derniers mois. Les directions générales, elles, reconnaissent rarement le lien direct avec la pression des investisseurs.\n\n\"Il y a une dissonance très forte entre le discours sur le bien-être au travail porté par ces entreprises — qui, pour beaucoup, vendent justement des solutions de santé — et la réalité vécue par leurs propres collaborateurs\", observe Delphine Aubert, associée chez RH Lab Conseil, cabinet spécialisé dans l'accompagnement des scale-ups.\n\nLe cas des travailleurs en situation de handicap est particulièrement préoccupant. Dans des environnements à forte intensité cognitive et à cadences serrées, le respect des aménagements RQTH devient souvent la première variable d'ajustement. Une tendance que les inspections du travail commencent à surveiller de près, notamment dans les zones de forte concentration de startups comme Paris XIe ou le quartier de Sentier.\n\nLes directions marketing sont en première ligne. Chargées de piloter des lancements produit avec des budgets contraints et des objectifs trimestriels souvent fixés unilatéralement par les fondateurs sous pression de leurs boards, elles se retrouvent à gérer simultanément la performance externe et la tension interne. \"Le rôle de directeur marketing dans une startup en hypercroissance est devenu un poste à très haute usure\", résume Aubert.\n\nCertains fonds commencent néanmoins à intégrer des critères de climat social dans leurs reportings ESG trimestriels, sous la pression croissante des limited partners sensibles aux risques réputationnels. Mais pour beaucoup d'observateurs, il s'agit encore d'indicateurs cosmétiques, rarement suivis d'effets correctifs concrets.\n\nLa question qui se pose désormais pour ces entreprises n'est plus seulement de savoir comment croître vite, mais comment croître sans se briser de l'intérieur."
     }
   ],
@@ -588,36 +604,8 @@ window.LUMIO_DATA = {
   }
 };
 
-
-// ── Correctifs RETEX juin 2026 ── injectés après LUMIO_DATA ──────────────
-if (!window.LUMIO_DATA.finder.folders.mission) { window.LUMIO_DATA.finder.folders.mission = {"title": "Mission — Dossier complet", "sidebar": "Mission", "icon": "🗂", "items": [{"kind": "folder", "name": "Acte 1 — Ancrage", "folder": "acte1"}, {"kind": "folder", "name": "Acte 2 — Entrée affaire", "folder": "acte2"}, {"kind": "folder", "name": "Acte 3 — Diagnostic", "folder": "acte3"}, {"kind": "folder", "name": "Acte 4 — Production", "folder": "acte4"}, {"kind": "folder", "name": "Acte 5 — Réflexion", "folder": "acte5"}, {"kind": "folder", "name": "Portraits équipe", "folder": "portraits"}]}; }
-if (!window.LUMIO_DATA.finder.order.includes('mission')) { var _o=window.LUMIO_DATA.finder.order; window.LUMIO_DATA.finder.order = ['guide','mission',..._o.filter(x=>x!=='guide')]; }
-if (!window.LUMIO_DATA.portraits || !window.LUMIO_DATA.portraits.length) { window.LUMIO_DATA.portraits = [{"key": "theo", "id": "portrait-theo", "title": "Théo Marczak — CEO", "tabTitle": "Théo Marczak", "favicon": "T", "faviconColor": "#0a3d62", "host": "lusinedigitale.fr", "url": "lusinedigitale.fr/portrait/theo-marczak", "file": "portraits/portrait_theo_marczak.html"}, {"key": "sonia", "id": "portrait-sonia", "title": "Sonia Ferracci — Dir. Marketing", "tabTitle": "Sonia Ferracci", "favicon": "S", "faviconColor": "#a02020", "host": "cbnews.fr", "url": "cbnews.fr/portrait/sonia-ferracci", "file": "portraits/portrait_sonia_ferracci.html"}, {"key": "camille", "id": "portrait-camille", "title": "Camille Ott — Partenariats B2B", "tabTitle": "Camille Ott", "favicon": "C", "faviconColor": "#1a6641", "host": "actionco.fr", "url": "actionco.fr/portrait/camille-ott", "file": "portraits/portrait_camille_ott.html"}, {"key": "yassine", "id": "portrait-yassine", "title": "Yassine Morel — Content Manager", "tabTitle": "Yassine Morel", "favicon": "Y", "faviconColor": "#e85d3a", "host": "maddyness.com", "url": "maddyness.com/portrait/yassine-morel", "file": "portraits/portrait_yassine_morel.html"}, {"key": "jakob", "id": "portrait-jakob", "title": "Jakob Rein — Northgate Capital", "tabTitle": "Jakob Rein", "favicon": "J", "faviconColor": "#1b3a6b", "host": "forbes.fr", "url": "forbes.fr/portrait/jakob-rein", "file": "portraits/portrait_jakob_rein.html"}]; }
-if (!window.LUMIO_DATA.desktopIcons) { window.LUMIO_DATA.desktopIcons = [{"app": "finder", "folder": "mission", "label": "Mission", "kind": "folder"}, {"app": "finder", "folder": "portraits", "label": "Portraits équipe", "kind": "folder"}, {"app": "mail", "label": "Mail", "kind": "app"}, {"app": "slack", "label": "Slack", "kind": "app"}, {"app": "notepad", "label": "Mes notes.txt", "kind": "app"}]; }
-if (!window.LUMIO_DATA.voiceMemos || !window.LUMIO_DATA.voiceMemos.length) { window.LUMIO_DATA.voiceMemos = [{"title": "Débrief RDV — partenaire stratégique", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Mars 2025", "context": "mémo dicté après réunion", "durationSec": 44, "transcript": "Réunion ce matin avec le partenaire clé. Le message principal : ils veulent avancer, mais pas sans voir la certification MDR progresser. Côté budget, la fourchette est réaliste — ils sont prêts à discuter. Ce qui bloque, c'est la souveraineté des données : hébergement France, audit annuel, accès self-service. Je leur ai dit qu'on pouvait s'engager sur ce point d'ici fin mars. À valider avec Théo avant que je confirme."}, {"title": "Note terrain — signaux B2B semaine", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Avril 2025", "context": "mémo dicté en déplacement", "durationSec": 36, "transcript": "Trois signaux forts cette semaine. Un : les DSI bloquent systématiquement sur RGPD dès qu'on parle de wearable — sans hébergement local certifié, on ne passe pas. Deux : le sujet est remonté au niveau comité de direction dans deux entreprises sur trois — la décision n'est plus RH, elle est stratégique. Trois : les mutuelles commencent à nous solliciter directement pour des offres packagées. C'est un canal qu'on n'avait pas prévu et qui mérite qu'on y consacre du temps."}]; }
-
 window.PAC_CONFIG = {
   "bloc": "bc3",
-  accroche_namescreen: {
-    "subtitle": "Manager les équipes",
-    "role": "consultant·e en management d'équipes",
-    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour l'Opération Cohésion — une tempête silencieuse traverse les équipes. Mobilisation, conduite du changement, développement des compétences, prévention des tensions : tu produis le rapport d'activité et l'étude de cas attendus sur le management des équipes.",
-    "ratio_label": "3 semaines dans la vraie vie",
-    "regles": [
-      {
-        "ico": "📄",
-        "txt": "Tout ce que tu sais, c'est dans les documents RH et managériaux du poste de mission."
-      },
-      {
-        "ico": "🤐",
-        "txt": "Le jury évalue ta capacité à mobiliser, à conduire le changement et à structurer un management mesurable."
-      },
-      {
-        "ico": "💬",
-        "txt": "Quand tu as une hypothèse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
-      }
-    ]
-  },
   "titre": "Manager les équipes",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 4 : Étude de cas",
   "deadline": "14 mars 2025 · 18h00",
@@ -778,9 +766,14 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc3 (Manager les équipes — MDO, RNCP 35280).\nContexte : Opération Cohésion — La tempête silencieuse chez Lumio Health · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de description des rôles et responsabilités de chaque membre de l'équipe dans le dispositif managérial présenté : le jury doit pouvoir identifier qui fait quoi (Sonia, Yassine, Camille, Théo) dans chaque action proposée.\n- Absence d'indicateurs d'impact mesurables sur au moins trois des six compétences : chaque préconisation doit être assortie d'un indicateur qualitatif ou quantitatif permettant d'évaluer son effet (ex. taux d'absentéisme, score eNPS, budget formation, nombre d'actions formation réalisées).\n- Traitement superficiel ou absent de la dimension juridique (C18) : tout dossier ne citant aucune obligation légale concrète (Code du travail, DUERP, RPS) sera éliminé.\n- Plan de formation (C19) non budgété ou non rattaché à des écarts de compétences identifiés : un plan sans chiffrage ou sans lien avec un référentiel de compétences ne satisfait pas aux critères d'évaluation.\n- Note réflexive absente ou inférieure à 100 mots : la posture réflexive est une exigence formelle du bloc ; son absence entraîne l'invalidation du dossier.\n- Aucun lien établi entre la politique RSE / développement durable (C15) et la réalité sectorielle de Lumio Health (medtech, wearables, données de santé) : les discours génériques déconnectés du contexte sont éliminatoires.\n- Confusion entre prévention et résolution de conflits (C16) : le jury attend une distinction explicite entre les outils de prévention (avant le conflit) et les dispositifs de résolution (pendant/après), appuyée sur un diagnostic préalable.\n\nRéponds EXACTEMENT dans ce format :\n### C14 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C15 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C16 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C17 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C18 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C19 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc3 (Diriger une organisation).\nContexte : Opération Cohésion — La tempête silencieuse chez Lumio Health · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de description des rôles et responsabilités de chaque membre de l'équipe dans le dispositif managérial présenté : le jury doit pouvoir identifier qui fait quoi (Sonia, Yassine, Camille, Théo) dans chaque action proposée.\n- Absence d'indicateurs d'impact mesurables sur au moins trois des six compétences : chaque préconisation doit être assortie d'un indicateur qualitatif ou quantitatif permettant d'évaluer son effet (ex. taux d'absentéisme, score eNPS, budget formation, nombre d'actions formation réalisées).\n- Traitement superficiel ou absent de la dimension juridique (C18) : tout dossier ne citant aucune obligation légale concrète (Code du travail, DUERP, RPS) sera éliminé.\n- Plan de formation (C19) non budgété ou non rattaché à des écarts de compétences identifiés : un plan sans chiffrage ou sans lien avec un référentiel de compétences ne satisfait pas aux critères d'évaluation.\n- Note réflexive absente ou inférieure à 100 mots : la posture réflexive est une exigence formelle du bloc ; son absence entraîne l'invalidation du dossier.\n- Aucun lien établi entre la politique RSE / développement durable (C15) et la réalité sectorielle de Lumio Health (medtech, wearables, données de santé) : les discours génériques déconnectés du contexte sont éliminatoires.\n- Confusion entre prévention et résolution de conflits (C16) : le jury attend une distinction explicite entre les outils de prévention (avant le conflit) et les dispositifs de résolution (pendant/après), appuyée sur un diagnostic préalable.\n\nRéponds EXACTEMENT dans ce format :\n### C14 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C15 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C16 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C17 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C18 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C19 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
+if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
+  window.LUMIO_DATA.voiceMemos = [];
+}
