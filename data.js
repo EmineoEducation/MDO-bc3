@@ -122,7 +122,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "[À COMPLÉTER — paragraphe d'introduction]"
+              "text": "Ce référentiel dresse la cartographie des compétences de l'équipe Marketing & B2B de Lumio Health au premier trimestre 2025, dans un contexte de forte montée en charge liée au partenariat Northgate. Il met en regard, pour chaque collaborateur clé, les compétences requises par le nouveau périmètre d'activité et les compétences effectivement maîtrisées, afin d'objectiver les écarts et de prioriser les actions de développement."
             },
             {
               "type": "h2",
@@ -130,7 +130,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "[À COMPLÉTER — corps du document]"
+              "text": "Sonia Ferracci (Directrice Marketing) maîtrise le pilotage stratégique et le positionnement de marque, mais doit monter en compétence sur le management d'une équipe en croissance rapide et la délégation opérationnelle. Yassine Morel (Content Manager) dispose d'une forte expertise éditoriale et SEO ; l'écart porte sur la coordination de prestataires et la gestion de projet multi-canal, désormais nécessaires au volume Northgate. Camille Ott (Responsable partenariats B2B) excelle en développement commercial et négociation ; ses axes de progrès concernent l'analyse de données de performance et l'outillage CRM. Trois écarts prioritaires ressortent : (1) management et délégation au niveau de l'encadrement, (2) gestion de projet transverse au niveau opérationnel, (3) data et pilotage par les indicateurs sur l'ensemble de l'équipe. Chaque écart appelle une action de formation ciblée (interne ou OPCO/CPF) à inscrire au plan de développement des compétences."
             },
             {
               "type": "callout",
@@ -155,7 +155,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "[À COMPLÉTER — paragraphe d'introduction]"
+              "text": "Cet audit examine la politique RH de Lumio Health au regard de quatre variables structurantes — emploi, rémunération, valorisation et implication — dans la perspective du changement d'échelle engagé avec Northgate. Il vise à identifier les forces, les fragilités et les risques juridiques, puis à formuler des préconisations opérationnelles et un plan de développement des compétences budgété."
             },
             {
               "type": "h2",
@@ -163,7 +163,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "[À COMPLÉTER — corps du document]"
+              "text": "Emploi : la croissance rapide a créé des surcharges (Camille Ott à 50h/semaine) et une absence prolongée non formalisée (Yassine Morel), sans cartographie des emplois ni anticipation des besoins — d'où la nécessité d'une démarche GPEC. Rémunération : l'absence de grille et de critères objectifs expose à un risque d'inégalité de traitement et de tensions ; une politique de rémunération lisible et un cadrage des révisions salariales sont recommandés. Valorisation : les parcours et la reconnaissance des contributions ne sont pas structurés ; la mise en place d'entretiens professionnels réguliers et d'un plan de développement des compétences est prioritaire. Implication : le climat se dégrade (tensions latentes, signaux de désengagement) ; la prévention des risques psychosociaux impose la mise à jour du DUERP, l'évaluation des RPS et le respect des obligations du droit du travail. Préconisations : formaliser une GPEC, sécuriser juridiquement la politique RH (DUERP, RPS), et budgéter un plan de développement des compétences mobilisant OPCO et CPF, avec indicateurs de suivi et jalons trimestriels."
             },
             {
               "type": "callout",
@@ -588,7 +588,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Quand la croissance forcée épuise les équipes des medtech françaises",
       "lede": "Portées par des investisseurs exigeants et des cycles de lancement accélérés, plusieurs startups de santé numérique voient leurs équipes internes se fissurer. Un phénomène qui interroge les pratiques managériales du secteur.",
-      "illustration": "PHOTO ILLUSTRATIVE",
+      "illustration": "portraits/Theo_Marczak.png",
       "body": "Depuis dix-huit mois, le marché français des medtech affiche une attractivité record auprès des fonds de capital-risque européens. Les levées de fonds se succèdent, les roadmaps produit s'accélèrent, et les équipes — souvent réduites — se retrouvent à absorber des charges de travail croissantes sans que les effectifs suivent. Résultat : un turnover qui grimpe en flèche et des signaux d'épuisement professionnel de plus en plus difficiles à ignorer.\n\nSelon une étude publiée en février 2025 par le cabinet Alvares & Marsal, 62 % des startups healthtech françaises de moins de 50 salariés ont connu au moins un départ non anticipé dans leur équipe marketing ou produit au cours des douze derniers mois. Les directions générales, elles, reconnaissent rarement le lien direct avec la pression des investisseurs.\n\n\"Il y a une dissonance très forte entre le discours sur le bien-être au travail porté par ces entreprises — qui, pour beaucoup, vendent justement des solutions de santé — et la réalité vécue par leurs propres collaborateurs\", observe Delphine Aubert, associée chez RH Lab Conseil, cabinet spécialisé dans l'accompagnement des scale-ups.\n\nLe cas des travailleurs en situation de handicap est particulièrement préoccupant. Dans des environnements à forte intensité cognitive et à cadences serrées, le respect des aménagements RQTH devient souvent la première variable d'ajustement. Une tendance que les inspections du travail commencent à surveiller de près, notamment dans les zones de forte concentration de startups comme Paris XIe ou le quartier de Sentier.\n\nLes directions marketing sont en première ligne. Chargées de piloter des lancements produit avec des budgets contraints et des objectifs trimestriels souvent fixés unilatéralement par les fondateurs sous pression de leurs boards, elles se retrouvent à gérer simultanément la performance externe et la tension interne. \"Le rôle de directeur marketing dans une startup en hypercroissance est devenu un poste à très haute usure\", résume Aubert.\n\nCertains fonds commencent néanmoins à intégrer des critères de climat social dans leurs reportings ESG trimestriels, sous la pression croissante des limited partners sensibles aux risques réputationnels. Mais pour beaucoup d'observateurs, il s'agit encore d'indicateurs cosmétiques, rarement suivis d'effets correctifs concrets.\n\nLa question qui se pose désormais pour ces entreprises n'est plus seulement de savoir comment croître vite, mais comment croître sans se briser de l'intérieur."
     }
   ],
@@ -606,6 +606,26 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc3",
+  accroche_namescreen: {
+    "subtitle": "Manager les équipes",
+    "role": "consultant·e en management d'équipes",
+    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour l'Opération Cohésion — une tempête silencieuse traverse les équipes. Mobilisation, conduite du changement, développement des compétences, prévention des tensions : tu produis le rapport d'activité et l'étude de cas attendus sur le management des équipes.",
+    "ratio_label": "3 semaines dans la vraie vie",
+    "regles": [
+      {
+        "ico": "📄",
+        "txt": "Tout ce que tu sais, c'est dans les documents RH et managériaux du poste de mission."
+      },
+      {
+        "ico": "🤐",
+        "txt": "Le jury évalue ta capacité à mobiliser, à conduire le changement et à structurer un management mesurable."
+      },
+      {
+        "ico": "💬",
+        "txt": "Quand tu as une hypothèse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
+      }
+    ]
+  },
   "titre": "Manager les équipes",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 4 : Étude de cas",
   "deadline": "14 mars 2025 · 18h00",
@@ -766,14 +786,9 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc3 (Diriger une organisation).\nContexte : Opération Cohésion — La tempête silencieuse chez Lumio Health · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de description des rôles et responsabilités de chaque membre de l'équipe dans le dispositif managérial présenté : le jury doit pouvoir identifier qui fait quoi (Sonia, Yassine, Camille, Théo) dans chaque action proposée.\n- Absence d'indicateurs d'impact mesurables sur au moins trois des six compétences : chaque préconisation doit être assortie d'un indicateur qualitatif ou quantitatif permettant d'évaluer son effet (ex. taux d'absentéisme, score eNPS, budget formation, nombre d'actions formation réalisées).\n- Traitement superficiel ou absent de la dimension juridique (C18) : tout dossier ne citant aucune obligation légale concrète (Code du travail, DUERP, RPS) sera éliminé.\n- Plan de formation (C19) non budgété ou non rattaché à des écarts de compétences identifiés : un plan sans chiffrage ou sans lien avec un référentiel de compétences ne satisfait pas aux critères d'évaluation.\n- Note réflexive absente ou inférieure à 100 mots : la posture réflexive est une exigence formelle du bloc ; son absence entraîne l'invalidation du dossier.\n- Aucun lien établi entre la politique RSE / développement durable (C15) et la réalité sectorielle de Lumio Health (medtech, wearables, données de santé) : les discours génériques déconnectés du contexte sont éliminatoires.\n- Confusion entre prévention et résolution de conflits (C16) : le jury attend une distinction explicite entre les outils de prévention (avant le conflit) et les dispositifs de résolution (pendant/après), appuyée sur un diagnostic préalable.\n\nRéponds EXACTEMENT dans ce format :\n### C14 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C15 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C16 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C17 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C18 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C19 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc3 (Manager les équipes — MDO, RNCP 35280).\nContexte : Opération Cohésion — La tempête silencieuse chez Lumio Health · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de description des rôles et responsabilités de chaque membre de l'équipe dans le dispositif managérial présenté : le jury doit pouvoir identifier qui fait quoi (Sonia, Yassine, Camille, Théo) dans chaque action proposée.\n- Absence d'indicateurs d'impact mesurables sur au moins trois des six compétences : chaque préconisation doit être assortie d'un indicateur qualitatif ou quantitatif permettant d'évaluer son effet (ex. taux d'absentéisme, score eNPS, budget formation, nombre d'actions formation réalisées).\n- Traitement superficiel ou absent de la dimension juridique (C18) : tout dossier ne citant aucune obligation légale concrète (Code du travail, DUERP, RPS) sera éliminé.\n- Plan de formation (C19) non budgété ou non rattaché à des écarts de compétences identifiés : un plan sans chiffrage ou sans lien avec un référentiel de compétences ne satisfait pas aux critères d'évaluation.\n- Note réflexive absente ou inférieure à 100 mots : la posture réflexive est une exigence formelle du bloc ; son absence entraîne l'invalidation du dossier.\n- Aucun lien établi entre la politique RSE / développement durable (C15) et la réalité sectorielle de Lumio Health (medtech, wearables, données de santé) : les discours génériques déconnectés du contexte sont éliminatoires.\n- Confusion entre prévention et résolution de conflits (C16) : le jury attend une distinction explicite entre les outils de prévention (avant le conflit) et les dispositifs de résolution (pendant/après), appuyée sur un diagnostic préalable.\n\nRéponds EXACTEMENT dans ce format :\n### C14 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C15 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C16 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C17 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C18 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C19 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
-
-// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
-if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
-  window.LUMIO_DATA.voiceMemos = [];
-}
